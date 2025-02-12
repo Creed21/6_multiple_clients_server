@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/MainServer.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/requestResponse/KlijentskiZahtev.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/client/MainClient.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/requestResponse/Operacija.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/requestResponse/ServerskiOdgovor.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/model/Profesor.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/model/Student.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/ClientWorker/ClientThread.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/service/StudentService.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/model/Model.java</file>
+            <file>file:/D:/DON/6.%20multiple%20Clients%20-%20Server/src/server/db/DBBroker.java</file>
+        </group>
+    </open-files>
+</project-private>
